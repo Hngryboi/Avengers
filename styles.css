@@ -23,7 +23,7 @@ header h1{
 }
 .banner{
   position: relative;
-}.banner img{
+}.banner video{
    max-width: 100%;
 }
 .banner .welcome{
